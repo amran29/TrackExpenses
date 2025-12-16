@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">تتبع المصاريف</string>
+    <string name="my_expenses">مصاريفي</string>
+    <string name="total">الإجمالي</string>
+    <string name="add_expense">إضافة مصروف</string>
+    <string name="developed_by">تطوير عمران الجعفري</string>
+    <string name="title_hint">العنوان</string>
+    <string name="amount_hint">المبلغ</string>
+    <string name="category_hint">الفئة</string>
+    <string name="add_btn">إضافة</string>
+    <string name="cancel_btn">إلغاء</string>
+    <string name="deleted">تم الحذف:</string>
+    <string name="undo">تراجع</string>
+</resources>

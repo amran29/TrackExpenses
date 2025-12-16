@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.TrackExpenses" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- استخدام ألوانك كلون أساسي -->
+        <item name="colorPrimary">@color/brand_blue</item>
+        <item name="colorSecondary">@color/brand_green</item>
+        <!-- لون شريط الحالة (فوق التطبيق) -->
+        <item name="android:statusBarColor">@color/brand_blue</item>
+    </style>
+
+    <style name="Theme.TrackExpenses" parent="Base.Theme.TrackExpenses" />
+</resources>
